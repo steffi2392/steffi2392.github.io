@@ -13,16 +13,18 @@
 
 .quiz-container {
   position: relative;
+	height: 100px;
+
 }
 
 .btn-group {
-	position: relative;
 	margin-top: 80px;
 }
 
 .slide {
 	opacity: 0;
 	position: absolute;
+	width: 100%;
 	left: 0px;
 	top: 0px;
 }
