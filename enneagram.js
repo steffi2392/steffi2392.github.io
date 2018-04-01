@@ -220,7 +220,7 @@ function getQuestions() {
 						question_type: 9
 					},
 					{
-						question: "I foten feel alone and lonely, even when I'm around people I'm close to.",
+						question: "I often feel alone and lonely, even when I'm around people I'm close to.",
 						question_type: 4
 					},
 					{
