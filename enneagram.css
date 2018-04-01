@@ -1,0 +1,47 @@
+.invisible { 
+	opacity: 0;
+}
+
+.card {
+	padding: 20px; 
+	text-align: center;
+}
+
+.container {
+	position: relative;
+}
+
+.quiz-container {
+  position: relative;
+}
+
+.btn-group {
+	position: relative;
+	margin-top: 80px;
+}
+
+.slide {
+	opacity: 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.active-slide {
+	opacity: 1;
+}
+
+.question { 
+	margin: 10px;
+}
+
+.results { 
+	opacity: 0;
+	position: absolute; 
+	left: 0px;
+	top: 0px;
+}
+
+.active-results {
+	opacity: 1;
+}
